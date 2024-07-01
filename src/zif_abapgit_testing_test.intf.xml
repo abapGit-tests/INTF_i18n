@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>ZIF_ABAPGIT_TESTING_TEST</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Test English</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS_INTERFACE>
+    <SEOCLASSTX>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Test German</DESCRIPT>
+    </SEOCLASSTX>
+    <SEOCLASSTX>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Test French</DESCRIPT>
+    </SEOCLASSTX>
+   </DESCRIPTIONS_INTERFACE>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>BAZ</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Test German Attribute</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>BAZ</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Test English Attribute</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>BAZ</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Test French Attribute</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>FOOBAR</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Test German Method</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>FOOBAR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Test English Method</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>FOOBAR</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Test French Method</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>FOOBAR</CMPNAME>
+     <SCONAME>BAR</SCONAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Test German Parameter</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>FOOBAR</CMPNAME>
+     <SCONAME>BAR</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Test English Parameter</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>FOOBAR</CMPNAME>
+     <SCONAME>BAR</SCONAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Test French Parameter</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>
