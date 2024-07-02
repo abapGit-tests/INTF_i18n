@@ -32,6 +32,11 @@
     </SEOCOMPOTX>
     <SEOCOMPOTX>
      <CMPNAME>BAZ</CMPNAME>
+     <LANGU>둮</LANGU>
+     <DESCRIPT>Test en-GB Attribute</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>BAZ</CMPNAME>
      <LANGU>E</LANGU>
      <DESCRIPT>Test English Attribute</DESCRIPT>
     </SEOCOMPOTX>
@@ -44,6 +49,11 @@
      <CMPNAME>FOOBAR</CMPNAME>
      <LANGU>D</LANGU>
      <DESCRIPT>Test German Method</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>FOOBAR</CMPNAME>
+     <LANGU>둮</LANGU>
+     <DESCRIPT>Test en-GB Method</DESCRIPT>
     </SEOCOMPOTX>
     <SEOCOMPOTX>
      <CMPNAME>FOOBAR</CMPNAME>
@@ -62,6 +72,12 @@
      <SCONAME>BAR</SCONAME>
      <LANGU>D</LANGU>
      <DESCRIPT>Test German Parameter</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>FOOBAR</CMPNAME>
+     <SCONAME>BAR</SCONAME>
+     <LANGU>둮</LANGU>
+     <DESCRIPT>Test en-GB Parameter</DESCRIPT>
     </SEOSUBCOTX>
     <SEOSUBCOTX>
      <CMPNAME>FOOBAR</CMPNAME>
