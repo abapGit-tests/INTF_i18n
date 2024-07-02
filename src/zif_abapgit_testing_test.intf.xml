@@ -16,12 +16,12 @@
      <DESCRIPT>Test German</DESCRIPT>
     </SEOCLASSTX>
     <SEOCLASSTX>
-     <LANGU>둮</LANGU>
-     <DESCRIPT>Test en-GB</DESCRIPT>
-    </SEOCLASSTX>
-    <SEOCLASSTX>
      <LANGU>F</LANGU>
      <DESCRIPT>Test French</DESCRIPT>
+    </SEOCLASSTX>
+    <SEOCLASSTX>
+     <LANGU>둮</LANGU>
+     <DESCRIPT>Test en-GB</DESCRIPT>
     </SEOCLASSTX>
    </DESCRIPTIONS_INTERFACE>
    <DESCRIPTIONS>
@@ -29,11 +29,6 @@
      <CMPNAME>BAZ</CMPNAME>
      <LANGU>D</LANGU>
      <DESCRIPT>Test German Attribute</DESCRIPT>
-    </SEOCOMPOTX>
-    <SEOCOMPOTX>
-     <CMPNAME>BAZ</CMPNAME>
-     <LANGU>둮</LANGU>
-     <DESCRIPT>Test en-GB Attribute</DESCRIPT>
     </SEOCOMPOTX>
     <SEOCOMPOTX>
      <CMPNAME>BAZ</CMPNAME>
@@ -46,14 +41,14 @@
      <DESCRIPT>Test French Attribute</DESCRIPT>
     </SEOCOMPOTX>
     <SEOCOMPOTX>
-     <CMPNAME>FOOBAR</CMPNAME>
-     <LANGU>D</LANGU>
-     <DESCRIPT>Test German Method</DESCRIPT>
+     <CMPNAME>BAZ</CMPNAME>
+     <LANGU>둮</LANGU>
+     <DESCRIPT>Test en-GB Attribute</DESCRIPT>
     </SEOCOMPOTX>
     <SEOCOMPOTX>
      <CMPNAME>FOOBAR</CMPNAME>
-     <LANGU>둮</LANGU>
-     <DESCRIPT>Test en-GB Method</DESCRIPT>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Test German Method</DESCRIPT>
     </SEOCOMPOTX>
     <SEOCOMPOTX>
      <CMPNAME>FOOBAR</CMPNAME>
@@ -64,6 +59,11 @@
      <CMPNAME>FOOBAR</CMPNAME>
      <LANGU>F</LANGU>
      <DESCRIPT>Test French Method</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>FOOBAR</CMPNAME>
+     <LANGU>둮</LANGU>
+     <DESCRIPT>Test en-GB Method</DESCRIPT>
     </SEOCOMPOTX>
    </DESCRIPTIONS>
    <DESCRIPTIONS_SUB>
@@ -76,12 +76,6 @@
     <SEOSUBCOTX>
      <CMPNAME>FOOBAR</CMPNAME>
      <SCONAME>BAR</SCONAME>
-     <LANGU>둮</LANGU>
-     <DESCRIPT>Test en-GB Parameter</DESCRIPT>
-    </SEOSUBCOTX>
-    <SEOSUBCOTX>
-     <CMPNAME>FOOBAR</CMPNAME>
-     <SCONAME>BAR</SCONAME>
      <LANGU>E</LANGU>
      <DESCRIPT>Test English Parameter</DESCRIPT>
     </SEOSUBCOTX>
@@ -90,6 +84,12 @@
      <SCONAME>BAR</SCONAME>
      <LANGU>F</LANGU>
      <DESCRIPT>Test French Parameter</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>FOOBAR</CMPNAME>
+     <SCONAME>BAR</SCONAME>
+     <LANGU>둮</LANGU>
+     <DESCRIPT>Test en-GB Parameter</DESCRIPT>
     </SEOSUBCOTX>
    </DESCRIPTIONS_SUB>
   </asx:values>
